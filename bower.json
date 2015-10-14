@@ -1,0 +1,6 @@
+{
+  "name": "testwebinar",
+  "dependencies": {
+    "jquery": "1.11"
+  }
+}
